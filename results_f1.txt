@@ -1,0 +1,7 @@
+Best Predictive Feature: {'K': 0.13831456375684123}
+N: 0.11
+P: 0.08
+K: 0.14
+ph: 0.05
+
+F1 score using all features combined: 0.65
